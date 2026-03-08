@@ -1,0 +1,10 @@
+GRADE ANALYSIS REPORT
+==================================================
+
+Grade Distribution:
+------------------------------
+Grade A: 2 students (20.0%)
+Grade B: 3 students (30.0%)
+Grade C: 2 students (20.0%)
+Grade D: 1 students (10.0%)
+Grade F: 2 students (20.0%)

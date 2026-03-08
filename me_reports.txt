@@ -1,0 +1,25 @@
+GRADE ANALYSIS REPORT
+==================================================
+
+Grade Distribution:
+------------------------------
+Grade A: 1 students (25.0%)
+Grade B: 1 students (25.0%)
+Grade C: 1 students (25.0%)
+Grade D: 0 students (0.0%)
+Grade F: 1 students (25.0%)
+
+Individual Student Records:
+------------------------------
+Sam: 98.0 (Grade: A)
+Samkelo: 88.0 (Grade: B)
+Bonga: 78.0 (Grade: C)
+reveal: 55.0 (Grade: F)
+
+Statistics:
+------------------------------
+Total Students: 4
+Highest Score: 98.0
+Lowest Score: 55.0
+Average Score: 79.8
+Passing Rate (A-D): 75.0%
